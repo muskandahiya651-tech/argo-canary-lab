@@ -14,8 +14,8 @@ data:
       <body>
         <h1>ARGO CANARY DEPLOYMENT</h1>
 
-        <h2>Version: BLUE</h2>
+        <h2>Version: GREEN</h2>
 
-        <h3>Hello from Version 1</h3>
+        <h3>Hello from Version 2</h3>
       </body>
     </html>
